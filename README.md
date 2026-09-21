@@ -131,6 +131,8 @@ Expected status: `404 Not Found`.
 
 ## Swagger UI
 
+![Swagger CRUD API](screenshots/swagger-crud.png)
+
 Open:
 
 http://localhost:8000/docs
@@ -175,6 +177,3 @@ Stage 5: Swagger UI
 Stage 6: publish and docs
 ```
 
-## Submission
-
-Submit the public GitHub repository URL in the FlyRank assignment submission box.
