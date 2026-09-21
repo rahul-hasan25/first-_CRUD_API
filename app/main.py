@@ -133,7 +133,7 @@ def delete_task(task_id: int):
     if task is None:
         raise HTTPException(
             status_code=status.HTTP_404_NOT_FOUND,
-            detail=f"Task {task_id} not found",
+            detail=f"Task {task_id} Not Found",
         )
 
     tasks.remove(task)
